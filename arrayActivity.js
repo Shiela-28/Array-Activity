@@ -1,14 +1,14 @@
 // 1. Working with Arrays
 
 // Creates an array of favorite singers.
-let favSingers = ["Beyoncé", "Taylor Swift", "Adele"]; 
+let favSingers = ["Sarah", "Taylor Swift", "Regine"]; 
 
 // Accesses and logs the first element (index 0) of the favSingers array.
-console.log(favSingers[0]); // Logs "Beyoncé"
+console.log(favSingers[0]); // Logs "Sarah"
 
 
 // Creates an array of favorite numbers.
-let favNumbers = [7, 13, 21, 37];
+let favNumbers = [06, 21, 25, 14];
 
 
 // Creates a mixed array containing different data types, including a nested array.
